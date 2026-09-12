@@ -72,7 +72,7 @@ and integration layers that move very large payloads without falling over.
       <p>🔗 <a href="https://github.com/PietroMezzaroba/tg-dito-bot"><b>Repository</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🌱 <a href="https://github.com/PietroMezzaroba/ENS160-AHT21">ENS160 + AHT21 Air Quality Station</a></h4>
+      <h4>🌱 <a href="https://github.com/PietroMezzaroba/ens160-aht21-air-quality">ENS160 + AHT21 Air Quality Station</a></h4>
       <p><b>IoT Environmental Telemetry to the Cloud</b></p>
       <p>ESP8266 air-quality node reading TVOC, eCO₂ and AQI from a <b>ScioSense ENS160</b> multi-gas sensor plus
       temperature/humidity from an <b>AHT2x</b>, publishing over MQTT to <b>Ubidots</b> dashboards.</p>
@@ -81,7 +81,7 @@ and integration layers that move very large payloads without falling over.
         <img alt="I2C" src="https://img.shields.io/badge/I2C-Protocol-0969DA?style=flat-square" />
         <img alt="Ubidots" src="https://img.shields.io/badge/Cloud-Ubidots-1ABC9C?style=flat-square" />
       </p>
-      <p>🔗 <a href="https://github.com/PietroMezzaroba/ENS160-AHT21"><b>Repository</b></a></p>
+      <p>🔗 <a href="https://github.com/PietroMezzaroba/ens160-aht21-air-quality"><b>Repository</b></a></p>
     </td>
   </tr>
 </table>
